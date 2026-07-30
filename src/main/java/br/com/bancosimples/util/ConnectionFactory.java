@@ -10,8 +10,8 @@ import java.sql.SQLException;
 public class ConnectionFactory {
 
     private static final String BANCO   = "SistemaBancario";
-    private static final String USUARIO = "sa";
-    private static final String SENHA   = "sua_senha_aqui";
+    private static final String USUARIO = "seu usuario aqui";
+    private static final String SENHA   = "sua senha aqui";
 
     private static final String URL =
             "jdbc:sqlserver://localhost\\SQLEXPRESS"
